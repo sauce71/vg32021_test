@@ -1,0 +1,6 @@
+Her er det noe mer tekst som jeg skal ha i Github
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vestibulum condimentum pulvinar viverra. In a auctor ante.
+ Aliquam imperdiet finibus nibh, et placerat metus varius eget. 
+ Vestibulum aliquam molestie lacinia. Ut vehicula tempus velit commodo ultrices. Ut et tortor pretium, sollicitudin nisi nec, vulputate nulla. 
+Vestibulum ut lorem massa. Pellentesque volutpat, eros in tempus sagittis, massa ante posuere turpis,
